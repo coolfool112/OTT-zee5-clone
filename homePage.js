@@ -1,25 +1,43 @@
 let detailsArr=[
     {
-        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5177236/cover/1920x770cd788cc8f66e4f27accee7da64d1e9cd.jpg",
-        name:"Janhit Mein Jaari",
+        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5512788/cover/1920x7703d2fd39f63454242b8dec6e15515a9b88fc7a952fba743a2891a7b8723220d654f1f37cabcdb44719b984f546fd7ae5e.jpg",
+        name:"The Kerela Story",
         text1:"WATCH",
         text2:"BUY NOW"
     },
     {
-        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-3392/cover/1920x77050480c91c7534e2f846717dc69b6e82c.jpg",
+        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5528544/cover/1920x7702bf1bf90b7984f46a6bdc22d3b523b7fd43dc54370d64f0688efb490029c5f79.jpg",
+        name:"Mai Atal Hoon",
+        text1:"WATCH",
+        text2:"BUY NOW"
+    },
+    {
+        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5500337/cover/1920x7708a04a298918b4019b14f31483da8df0b84401b510c7744be87655f7a2bccc47e.jpg",
+        name:"Sam Bahadur",
+        text1:"WATCH",
+        text2:"BUY NOW"
+    },
+    {
+        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-3392/cover/1920x770e991ff42036846069132040f0afde52253bdd2c1deaf485f9ff8309bdd1a867f.jpg",
         name:"Bhagya Lakshmi",
         text1:"WATCH",
         text2:"BUY NOW"
     },
     {
-        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5172356/cover/1920x7705a2073dc89d04da2926dbcd3886785aaa974ce344e704cabb3b0556de80eaa7b.jpg",
-        name:"Saas Bahu Achaar Pvt. Ltd.",
+        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5535565/cover/1920x770393a4613452942edb101b347b756e282.jpg",
+        name:"Farrey",
         text1:"WATCH",
         text2:"BUY NOW"
     },
     {
-        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-0-1z5149852/cover/1920x7708760d4e6a1c8429cbfea6f1e4a375f6d25ac3d74d6544bc89704d6475e368c79.jpg",
-        name:"Forensic",
+        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-366/cover/1920x7700c8fce49121b4d509d4d89bfee1992846ce5dbc804da48008e5e96619d7f3d3e.jpg",
+        name:"Kundali Bhagya",
+        text1:"WATCH",
+        text2:"BUY NOW"
+    },
+    {
+        videoImage:"https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5234663/cover/1920x7708f2251201adf41988e18982f4dc2b7e6.jpg",
+        name:"Commando Arjun",
         text1:"WATCH",
         text2:"BUY NOW"
     }
